@@ -1,0 +1,1 @@
+# GEMASTIK-XVII_PenambanganData_Bayesians
