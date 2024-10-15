@@ -1,1 +1,1 @@
-# GEMASTIK-XVII_PenambanganData_Bayesians
+# GEMASTIK-XVII_PenambanganData_LatentDirichletAllocation_Bayesians
